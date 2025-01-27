@@ -10,10 +10,10 @@
 - User authentication via phone number and OTP.
 
 ## Technologies Used
-- **Java Servlet** for backend logic.
-- **JSP** for frontend pages.
-- **Maven** for dependency management.
-- **Tomcat** as the application server.
+- **Java Servlet**: For backend logic and HTTP request/response handling.
+- **JSP**: For creating dynamic frontend pages.
+- **Tomcat**: As the application server to host the web application.
+- **HTML/CSS**: For structuring and styling frontend pages.
 
 ## Screenshots
 
